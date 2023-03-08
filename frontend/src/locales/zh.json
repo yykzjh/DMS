@@ -1,0 +1,57 @@
+{
+  "topbar":{
+    "profile": {
+      "logout": {
+        "text": "退出"
+      }
+    }
+  },
+  "menuitems": {
+    "homepage": {
+      "text": "首页",
+      "list": {
+        "datastatistics": "数据统计",
+        "todonotification": {
+          "text": "待办通知",
+          "badge": "5"
+        },
+        "messagenotification": {
+          "text": "消息通知",
+          "badge": "10"
+        }
+      }
+    },
+    "filingmanagement": {
+      "text": "文件管理"
+    },
+    "workbench": {
+      "text": "工作台",
+      "list": {
+        "personalmessage": "个人消息",
+        "messagemanagement": "消息管理",
+        "myborrowrecord": "我的借阅",
+        "borrowrecordmanagement": "借阅管理"
+      }
+    },
+    "audit": {
+      "text": "台账",
+      "list": {
+        "filingaudit": "文件柜台账",
+        "fileaudit": "文件台账"
+      }
+    },
+    "profile": {
+      "text": "个人中心",
+      "list": {
+        "basicsetting": "基本设置",
+        "securitysetting": "安全设置"
+      }
+    },
+    "usermanagement": {
+      "text": "用户管理"
+    },
+    "rolemanagement": {
+      "text": "角色管理"
+    }
+  }
+}

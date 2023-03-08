@@ -1,0 +1,8 @@
+页码变了：其他都不变
+条件变了：页码归0，其他不变
+文件夹变了：权限变，位置变，页码归0，条件清空
+
+
+havePermission:                   true                                         false                                   false
+showfileDetails:                    true                                         true                                    false
+                                    删除、编辑、查看                             查看                                    借阅

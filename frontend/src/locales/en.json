@@ -1,0 +1,57 @@
+{
+  "topbar":{
+    "profile": {
+      "logout": {
+        "text": "Log Out"
+      }
+    }
+  },
+  "menuitems": {
+    "homepage": {
+      "text": "Home Page",
+      "list": {
+        "datastatistics": "Data Statistics",
+        "todonotification": {
+          "text": "Todo Notification",
+          "badge": "5"
+        },
+        "messagenotification": {
+          "text": "Message Notification",
+          "badge": "10"
+        }
+      }
+    },
+    "filingmanagement": {
+      "text": "Filing Management"
+    },
+    "workbench": {
+      "text": "Workbench",
+      "list": {
+        "personalmessage": "Personal Message",
+        "messagemanagement": "Message Management",
+        "myborrowrecord": "My BorrowRecord",
+        "borrowrecordmanagement": "BorrowRecord Management"
+      }
+    },
+    "audit": {
+      "text": "Audit",
+      "list": {
+        "filingaudit": "Filing Audit",
+        "fileaudit": "File Audit"
+      }
+    },
+    "profile": {
+      "text": "Profile",
+      "list": {
+        "basicsetting": "Basic Setting",
+        "securitysetting": "Security Setting"
+      }
+    },
+    "usermanagement": {
+      "text": "User Management"
+    },
+    "rolemanagement": {
+      "text": "Role Management"
+    }
+  }
+}

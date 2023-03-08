@@ -1,0 +1,5 @@
+{
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "python.pythonPath": "G:\\python\\anaconda3\\envs\\document-management-system\\python.exe"
+}
